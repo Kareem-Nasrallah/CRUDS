@@ -14,7 +14,7 @@ let deletAlldiv = document.getElementById("deletAlldiv");
 let submitmood = "create";
 let elementnumber;
 let fields = document.getElementsByClassName("field");
-
+localStorage
 // get total of price
 
 let gettotal = function () {
